@@ -15,7 +15,7 @@
     },
 
     {
-      "name": "RDW",
+      "name": "Python file",
       "type": "debugpy",
       //"python": "${workspaceFolder}/venv/Scripts/python",
       "python": "${workspaceFolder}/venv/bin/python",
